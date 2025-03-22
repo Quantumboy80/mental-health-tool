@@ -24,7 +24,7 @@ Make sure you have Python installed, then run:
 bash
 Copy
 Edit
-pip install flask textblob flask-cors
+-> pip install flask textblob flask-cors
 2️⃣ Run the Flask App
 bash
 Copy
